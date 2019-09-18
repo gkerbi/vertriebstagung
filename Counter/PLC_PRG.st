@@ -1,0 +1,7 @@
+PROGRAM PLC_PRG
+VAR
+
+END_VAR
+
+Counter();
+END_PROGRAM
