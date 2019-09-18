@@ -2,6 +2,7 @@ PROGRAM Counter
 VAR
 	Counter_timer	: TON;
 	iStatus	: INT := 0;
+	newVar : INT;
 END_VAR
 
 VAR CONSTANT
