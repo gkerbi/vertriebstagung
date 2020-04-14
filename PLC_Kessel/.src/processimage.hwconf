@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<global-settings>
+		<scale-enabled>0</scale-enabled>
+		<error-tolerant>0</error-tolerant>
+		<mmp-ready>0</mmp-ready>
+		<version>V0.1.0 Alpha</version>
+		<retain-variables-handling>2</retain-variables-handling>
+		<include-sourcefile>0</include-sourcefile>
+		<include-sdb>0</include-sdb>
+		<number-MX>0</number-MX>
+		<number-MB>0</number-MB>
+		<number-MW>0</number-MW>
+		<number-MD>0</number-MD>
+		<number-MR>0</number-MR>
+		<number-RD>0</number-RD>
+		<number-GD>0</number-GD>
+	</global-settings>
+</configuration>

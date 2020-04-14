@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<workspace>
+	<dirs>
+		<library><![CDATA[C:\bachmann\SolutionCenter\V2.43Release\ws\PLC_Kessel\libs]]></library>
+	</dirs>
+	<memory-layout>
+		<global-memory-size>61440</global-memory-size>
+		<retain-memory-size>1024</retain-memory-size>
+		<max-pou-count>1024</max-pou-count>
+	</memory-layout>
+	<info>
+	     <replace-constants>false</replace-constants>
+	     <generate-sym-file>false</generate-sym-file>
+	     <long-svi-names>false</long-svi-names>
+	</info>
+</workspace>

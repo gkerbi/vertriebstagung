@@ -1,0 +1,43 @@
+;*********************************************
+; Script for MBIND to build an MPLC File
+;*********************************************
+;---------------------------------------------
+; Header
+ModuleType      = PLC
+Version         = "C:\Users\kerbled\AppData\Local\Temp\PLC_Kessel_3292238275275503927\PLC_Kess.ver"
+Reentrant       = FALSE
+NoOnlineConfig    = TRUE
+NoOnlineInstall   = FALSE
+NoOnlineDeinstall = FALSE
+DebugInfo       = FALSE
+ErrorTolerant = FALSE
+
+;----------------------------------------------
+; Object-Code of PLC
+ObjectType      = OBJ
+ObjectName      = "C:\Users\kerbled\AppData\Local\Temp\PLC_Kessel_3292238275275503927\PLC_Kess.obj"
+
+;----------------------------------------------
+; Configuration Rule
+ObjectType      = CFG
+ObjectName      = "C:\Users\kerbled\AppData\Local\Temp\PLC_Kessel_3292238275275503927\PLC_Kess.cfg"
+
+;----------------------------------------------
+; Configuration Data
+ObjectType      = BCRU
+ObjectName      = "C:\bachmann\SolutionCenter\V2.43Release\plugins\at.bachmann.plc.builder.mplc_1.0.0.202003241403\mplc\Targets\Bachmann\MTools\plcProj3.bcr"
+
+;----------------------------------------------
+; minimal MSYS version required
+ObjectType      = 16
+Version		 = "C:\USERS\KERBLED\APPDATA\LOCAL\TEMP\PLC_KESSEL_3292238275275503927\PLC_KESS_MSYS.ver"
+ObjectName		 = "MSYS"
+
+ObjectType		 = LIBPLC
+Version		 = "C:\USERS\KERBLED\APPDATA\LOCAL\TEMP\PLC_KESSEL_3292238275275503927\PLC_KESS_MSYS.ver"
+ObjectName		 = "C:\BACHMANN\SOLUTIONCENTER\V2.43RELEASE\WS\PLC_KESSEL\LIBS\MIO_PLC.PLM"
+ObjectType		 = LIBPLC
+ObjectName		 = "C:\BACHMANN\SOLUTIONCENTER\V2.43RELEASE\WS\PLC_KESSEL\LIBS\SMI_PLC.PLM"
+ObjectType		 = LIBPLC
+ObjectName		 = "C:\BACHMANN\SOLUTIONCENTER\V2.43RELEASE\WS\PLC_KESSEL\LIBS\UTIL_PLC.PLM"
+

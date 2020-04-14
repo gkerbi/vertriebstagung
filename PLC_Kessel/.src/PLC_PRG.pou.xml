@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pou>
+<path/>
+<name>PLC_PRG</name>
+<flags>59392</flags>
+<symbol-info>
+</symbol-info>
+<interface>
+<![CDATA[PROGRAM PLC_PRG
+VAR
+
+END_VAR]]>
+</interface>
+<st>
+<body>
+<![CDATA[
+
+
+;
+]]>
+</body>
+</st>
+</pou>

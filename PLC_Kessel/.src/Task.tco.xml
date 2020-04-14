@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+		
+<task-list>
+	<task>
+		<name>DefaultTas</name>
+		<priority>19</priority>
+		<kindof>cyclic</kindof>
+		<interval>10</interval>
+		<time-in-microseconds>false</time-in-microseconds>
+		<enable-watchdog>false</enable-watchdog>
+		<watchdog-time></watchdog-time>
+		<watchdog-sensitivity>1</watchdog-sensitivity>
+		<watchdog-time-in-microseconds>false</watchdog-time-in-microseconds>
+		<program-list>
+			<program>PLC_PRG();</program>
+		</program-list>
+		<customparameterlist>
+		</customparameterlist>
+	</task>
+</task-list>

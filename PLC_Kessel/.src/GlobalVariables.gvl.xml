@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gvl>
+<path/>
+<name>GlobalVariables</name>
+<flags>4096</flags>
+<symbol-info>
+</symbol-info>
+<interface>
+<![CDATA[VAR_GLOBAL
+
+END_VAR]]>
+</interface>
+</gvl>
