@@ -4,6 +4,11 @@ VAR
 END_VAR
 
 myVar := 1;
+
+WHILE myVar > 10 DO
+    ;
+END_WHILE;
+
 END_PROGRAM
 
 ACTIONS
