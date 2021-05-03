@@ -1,9 +1,9 @@
 PROGRAM PLC_PRG
 VAR
-
+    myVar : INT;
 END_VAR
 
-;
+myVar := 1;
 END_PROGRAM
 
 ACTIONS
