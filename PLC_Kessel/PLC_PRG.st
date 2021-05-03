@@ -1,9 +1,9 @@
 PROGRAM PLC_PRG
 VAR
-    myVar : INT;
+    myVar : INT := 5;
 END_VAR
 
-myVar := 1;
+myVar := myVar + 1;
 
 WHILE myVar > 10 DO
     ;
