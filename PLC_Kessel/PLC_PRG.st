@@ -9,7 +9,7 @@ WHILE myVar > 10 DO
     ;
 END_WHILE;
 
-test();
+test(); /* changes on the devbranch only */
 
 END_PROGRAM
 
